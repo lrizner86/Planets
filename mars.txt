@@ -4,4 +4,4 @@ the terraforming should provide valuable info for the colonizers
 remote test
 local test
 Collaborator addition
-Trying to add
+Conflict resolved
